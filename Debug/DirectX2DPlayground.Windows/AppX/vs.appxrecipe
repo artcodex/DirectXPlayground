@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AVI-MAIN-8</Machine>
+    <WindowsUser>Avi</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>77eff180-bacf-4d82-a5b6-d7784541c829</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\DirectX2DPlayground\DirectX2DPlayground.Windows\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4029634B75C8B31B957ACF6CC30891B6DD0196785DED05949ADB214057106611</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>77eff180-bacf-4d82-a5b6-d7784541c829_1.0.0.0_x86__zbdytkq53qn2c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>77eff180-bacf-4d82-a5b6-d7784541c829_zbdytkq53qn2c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>77eff180-bacf-4d82-a5b6-d7784541c829</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Avi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\Debug\DirectX2DPlayground.Windows\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T00:52:50.057</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\Debug\DirectX2DPlayground.Windows\DirectX2DPlayground.Windows.exe">
+      <PackagePath>DirectX2DPlayground.Windows.exe</PackagePath>
+      <Modified>2015-06-05T00:57:10.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\Debug\DirectX2DPlayground.Windows\DirectX2DPlayground.winmd">
+      <PackagePath>DirectX2DPlayground.winmd</PackagePath>
+      <Modified>2015-06-05T00:52:47.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Avi\Downloads\cat.png">
+      <PackagePath>cat.png</PackagePath>
+      <Modified>2015-06-04T19:08:22.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Avi\Downloads\CollisionDemo1-Final\tile.png">
+      <PackagePath>tile.png</PackagePath>
+      <Modified>2012-06-22T19:30:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\DirectX2DPlayground\DirectX2DPlayground.Windows\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T18:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\DirectX2DPlayground\DirectX2DPlayground.Windows\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T18:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\DirectX2DPlayground\DirectX2DPlayground.Windows\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T18:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\DirectX2DPlayground\DirectX2DPlayground.Windows\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T18:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\Debug\DirectX2DPlayground.Windows\SamplePixelShader.cso">
+      <PackagePath>SamplePixelShader.cso</PackagePath>
+      <Modified>2015-06-05T00:52:39.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\Debug\DirectX2DPlayground.Windows\SampleVertexShader.cso">
+      <PackagePath>SampleVertexShader.cso</PackagePath>
+      <Modified>2015-06-05T00:52:39.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\Debug\DirectX2DPlayground.Windows\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-05T00:52:48.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\Debug\DirectX2DPlayground.Windows\DirectXPage.xbf">
+      <PackagePath>DirectXPage.xbf</PackagePath>
+      <Modified>2015-06-05T00:52:48.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\Debug\DirectX2DPlayground.Windows\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-05T00:52:49.973</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

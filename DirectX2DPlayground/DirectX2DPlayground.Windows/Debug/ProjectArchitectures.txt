@@ -1,0 +1,1 @@
+C:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\DirectX2DPlayground\DirectX2DPlayground.Windows\DirectX2DPlayground.Windows.vcxproj;x86

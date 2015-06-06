@@ -1,0 +1,1 @@
+c:\Users\Avi\documents\visual studio 2013\Projects\DirectX2DPlayground\DirectX2DPlayground\DirectX2DPlayground.WindowsPhone\DirectX2DPlayground.WindowsPhone.vcxproj;x86
